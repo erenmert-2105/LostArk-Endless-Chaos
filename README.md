@@ -17,8 +17,6 @@ What it does:
 Basic Features:
 - [x] Floor 1 clearing
 - [x] Floor 2 clearing
-- [x] Gold Portal clearing
-- [x] Purple Boss Portal clearing
 - [x] Auto game restart on EAC offline or crash, for Steam and/or Nvidia GeForce Now players
 - [x] Daily Lopang (extra setup required, pls refer to the pinned post in Issues)
 - [x] Daily Guild Donation and research support
