@@ -3451,7 +3451,7 @@ def bifrostGoTo(option):
 
 
 def walkLopang():
-    os.system("C:/Users/erenm/OneDrive/Masaüstü/LostArk-Endless-Chaos-main/lopang.exe")
+    os.system("lopang.exe")
     print("lopang walking")
     time.sleep(90)
 
