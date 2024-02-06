@@ -65,7 +65,7 @@ lots of things can be customized for your best experience.
 ### 3. Start running script:
 
 ```
-git clone https://github.com/mert.o2105/Endless-Chaos.git
+git clone https://github.com/erenmert-2105/Endless-Chaos.git
 cd Endless-Chaos
 pip install -r requirements.txt
 python3 .\bot.py
