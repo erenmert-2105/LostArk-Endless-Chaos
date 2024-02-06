@@ -33,7 +33,7 @@ Utilities:
 ## Getting started (Please read)
 
 ### 0. Prerequisites:
-- You need to make exeption for lopang.exe or windows deffender deletes the exe file 
+- You need to make exeption for lopang.exe or windows deffender deletes the exe file.
 - Install/Open a Command Line/Terminal app in your operating system.
 - Install Python3 (if you dont have)
 - Install pip (if you dont have) from your terminal:
